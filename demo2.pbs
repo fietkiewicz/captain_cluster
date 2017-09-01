@@ -1,0 +1,4 @@
+#PBS -e error$number.txt -o log$number.txt 
+cd $TMPDIR 
+echo > $number.txt File $number. This is a demonstration script for Captain Cluster.
+cp -u *.txt $PBS_O_WORKDIR 

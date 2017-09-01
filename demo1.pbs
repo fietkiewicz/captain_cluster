@@ -1,0 +1,3 @@
+cd $TMPDIR 
+echo > output.txt Hello! This is a demonstration script for Captain Cluster.
+cp -u output.txt $PBS_O_WORKDIR 

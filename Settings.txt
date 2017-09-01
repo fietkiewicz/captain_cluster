@@ -1,0 +1,6 @@
+Settings.txt
+demo.pbs
+~/CaptainCluster
+C:\Users\Admin\Desktop\Lab\CaptainCluster
+~/CaptainCluster
+hpclogin.case.edu
